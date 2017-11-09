@@ -82,6 +82,12 @@
   .float-n-xs-max {
     float: none !important;
   }
+  .about-image-left {
+    margin-right: 0 !important;
+  }
+  .about-image-right {
+    margin-left: 0 !important;
+  }
 }
 
 @media (max-width: 991px) {
