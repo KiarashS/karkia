@@ -1,0 +1,103 @@
+body {
+    font-family: iranyekan, pfontregular, roboto, Arial;
+    background-color: #cdcdcd;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, input, textarea {
+    font-family: Yekan, pfontregular, roboto, Arial;
+}
+
+.rtl {
+    direction: rtl;
+}
+
+.ltr {
+    direction: ltr;
+}
+
+.section-heading h5 {
+    font-family: iranyekan, pfontregular, Arial;
+    font-style: normal;
+}
+
+.icon-list > li {
+    text-align: right;
+}
+
+.pricing-table-title span {
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0 2px;
+    font-family: iranyekan;
+}
+
+.pricing-table-list {
+    padding-right: 0;
+}
+
+.pricing-table-list li {
+    padding-right: 0;
+}
+
+.pricing-table-list li i {
+    margin-left: .5em;
+    margin-right: auto;
+}
+
+.pricing-table-caption {
+    font-style: normal;
+    font-family: iranyekan, pfontregular, Tahoma;
+}
+
+form .required:after {
+    left: 15px;
+    right: auto;
+}
+
+.icon-box._right .icon-box-media {
+    left: auto;
+    right: 0;
+}
+
+.section-heading h5 {
+    letter-spacing: 0;
+}
+
+.nav > li {
+    direction: rtl;
+    text-align: right;
+}
+
+.navbar-nav>li {
+    float: right;
+}
+
+/* Buttons and Links */
+.btn {
+    font-family: iranyekan, pfontregular, Tahoma;
+    letter-spacing: 0;
+    font-size: 15px;
+}
+
+.btn i {
+    margin-right: 10px;
+}
+
+/* Navbar */
+.navbar-header {
+    float: right;
+}
+
+.navbar-nav {
+    margin-right: 15px;
+    font-family: iranyekan, roboto, Arial;
+}
+
+.navbar-brand-wrap {
+    float: right;
+}
+
+.navbar-toggle {
+    float: left
+}
