@@ -106,6 +106,10 @@
   .about-image-right {
     margin-left: 0 !important;
   }
+  
+  #apple-logo-container {
+    margin-top: -230px;
+  }
 }
 
 @media (max-width: 991px) {
